@@ -1,5 +1,5 @@
 // Package iconik API for Golang
-package iconik
+package main
 
 import (
 	"bytes"
